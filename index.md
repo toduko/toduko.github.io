@@ -11,7 +11,7 @@ Here you will find some of my projects and notes/materials for my university cou
 
 ## Notes and materials
 
-- [Languages, Automata and Computability](https://toduko.github.io/languages-automata-and-computability/notes.pdf) ([source code](https://github.com/toduko/languages-automata-and-computability))
+- [Languages, Automata and Computability](https://toduko.github.io/notes/languages-automata-and-computability.pdf) ([source code](https://github.com/toduko/languages-automata-and-computability))
 
 ## Other
 
