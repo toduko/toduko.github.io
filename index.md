@@ -16,4 +16,4 @@ Here you will find some of my projects and notes/materials for my university cou
 ## Other
 
 - [dotfiles](https://github.com/toduko/dotfiles)
-- [LaTeX document skeleton](https://github.com/toduko/latex-skeleton)
+- [LaTeX document skeleton](https://toduko.github.io/notes/latex-skeleton.pdf) ([source code](https://github.com/toduko/latex-skeleton))
