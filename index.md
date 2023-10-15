@@ -11,9 +11,10 @@ Here you will find some of my projects and notes/materials for my university cou
 
 ## Notes and materials
 
-- [Languages, Automata and Computability](https://toduko.github.io/notes/languages-automata-and-computability.pdf) ([source code](https://github.com/toduko/languages-automata-and-computability))
+- [Languages, Automata and Computability](notes/languages-automata-and-computability.pdf) ([source code](https://github.com/toduko/languages-automata-and-computability))
+- [Propositional tautologies over finitely many variables is a context-free language](notes/propositional-tautologies-over-finitely-many-variables.pdf)
 
 ## Other
 
 - [dotfiles](https://github.com/toduko/dotfiles)
-- [LaTeX document skeleton](https://toduko.github.io/notes/latex-skeleton.pdf) ([source code](https://github.com/toduko/latex-skeleton))
+- [LaTeX document skeleton](notes/latex-skeleton.pdf) ([source code](https://github.com/toduko/latex-skeleton))
