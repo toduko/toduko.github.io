@@ -13,6 +13,7 @@ Here you will find some of my projects and notes/materials for my university cou
 
 - Languages, Automata and Computability - [pdf](notes/languages-automata-and-computability.pdf) and [source code](https://github.com/toduko/languages-automata-and-computability)
 - Propositional tautologies over finitely many variables is a context-free language - [pdf](notes/propositional-tautologies-over-finitely-many-variables.pdf)
+- (Non)regular language problems - [pdf](notes/regular-languages-problems.pdf)
 
 ## Other
 
